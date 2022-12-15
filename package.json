@@ -1,0 +1,19 @@
+{
+  "name": "alimetation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "buildsass" : "sass assets/scss/app.scss assets/css/app.css --watch --style=compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alireturn/projet-alimentation.git"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alireturn/projet-alimentation/issues"
+  },
+  "homepage": "https://github.com/Alireturn/projet-alimentation#readme"
+}
